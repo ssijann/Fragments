@@ -1,0 +1,4 @@
+#Fri Mar 19 00:30:42 NPT 2021
+base.0=C\:\\Users\\Sijan\\AndroidStudioProjects\\Fragments_DMA-main\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
